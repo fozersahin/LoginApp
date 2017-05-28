@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "983165444252",
+    "firebase_url": "https://loginapp-e048d.firebaseio.com",
+    "project_id": "loginapp-e048d",
+    "storage_bucket": "loginapp-e048d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983165444252:android:9772298a4251007c",
+        "android_client_info": {
+          "package_name": "com.example.fozersahin.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983165444252-o6a88kpfd1om497hd1n36smhaacu1u2e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fozersahin.loginapp",
+            "certificate_hash": "5e0b9de48d99f3a9b3b5f2ab31ff84e4a929887c"
+          }
+        },
+        {
+          "client_id": "983165444252-sfv13d2mdjpi1u5mkhom2mkr5edph4qb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWFFzdbPyI7rw4GyPOaIQEvrya-GzZD_A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983165444252-sfv13d2mdjpi1u5mkhom2mkr5edph4qb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
